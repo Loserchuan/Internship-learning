@@ -1,0 +1,5 @@
+{
+  "/projectName/mock/success": "/success",
+  "/projectName/mock/getPersonList": "/personList",
+  "/projectName/mock/getPersonByid?*": "/idPerson"
+}
